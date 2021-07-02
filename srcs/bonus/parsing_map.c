@@ -6,11 +6,11 @@
 /*   By: tnave <tnave@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/06/24 17:22:31 by tnave             #+#    #+#             */
-/*   Updated: 2021/07/02 11:27:57 by tnave            ###   ########.fr       */
+/*   Updated: 2021/07/02 23:06:44 by tnave            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../../includes/cub3d.h"
+#include "../../includes/cub3D.h"
 
 int	parse_map(t_data *data, t_parse_list *tmp)
 {

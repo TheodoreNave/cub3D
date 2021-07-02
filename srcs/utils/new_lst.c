@@ -6,11 +6,11 @@
 /*   By: tnave <tnave@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/06/24 16:59:06 by tnave             #+#    #+#             */
-/*   Updated: 2021/07/02 11:27:57 by tnave            ###   ########.fr       */
+/*   Updated: 2021/07/02 23:06:44 by tnave            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../../includes/cub3d.h"
+#include "../../includes/cub3D.h"
 
 t_parse_list	*ft_lstnew(void *content)
 {

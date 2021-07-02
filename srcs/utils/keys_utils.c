@@ -6,11 +6,11 @@
 /*   By: tnave <tnave@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/05/18 13:17:59 by tnave             #+#    #+#             */
-/*   Updated: 2021/07/02 11:27:57 by tnave            ###   ########.fr       */
+/*   Updated: 2021/07/02 23:06:44 by tnave            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../../includes/cub3d.h"
+#include "../../includes/cub3D.h"
 
 int	key_hook(int keycode, t_data *data)
 {

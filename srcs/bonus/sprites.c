@@ -6,11 +6,11 @@
 /*   By: tnave <tnave@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/06/24 19:25:24 by tnave             #+#    #+#             */
-/*   Updated: 2021/07/02 11:27:57 by tnave            ###   ########.fr       */
+/*   Updated: 2021/07/02 23:06:44 by tnave            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../../includes/cub3d.h"
+#include "../../includes/cub3D.h"
 
 void	swap_tmp(t_sprites *tmp, t_sprites *tmp2)
 {
