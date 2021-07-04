@@ -33,7 +33,6 @@ int	ft_error(int i, char *str, t_data *data)
 	return (0);
 }
 
-
 void	error_parameters(t_data *data)
 {
 	if (!data->no)
